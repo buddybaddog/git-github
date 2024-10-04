@@ -1,2 +1,7 @@
-console.log('config.js');
-console.log('version4');
+
+const product = {
+  name: 'car',
+  color: 'red'
+}
+
+console.log(product);
