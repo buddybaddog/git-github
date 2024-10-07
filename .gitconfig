@@ -1,0 +1,8 @@
+[alias]
+  st = status
+  co = checkout
+  cm = commit -m
+  br = branch
+  add-all = add .
+  ps = push
+  pl = pull
